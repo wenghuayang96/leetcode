@@ -49,6 +49,7 @@ public class LengthOfLastWord{
 class Solution {
     public int lengthOfLastWord(String s) {
 
+        return 0;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
@@ -61,6 +62,7 @@ class Solution {
     public void doMain() {
         Solution solution = new Solution();
         // TO TEST
+        return;
         
     
     }
